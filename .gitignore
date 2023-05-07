@@ -19,3 +19,12 @@
 
 # Go workspace file
 go.work
+
+*.iml
+workspace.xml
+vcs.xml
+modules.xml
+profiles_settings.xml
+.idea/*
+.idea
+*.exe
